@@ -134,13 +134,25 @@
       "languageVersion": "2.10"
     },
     {
+      "name": "webview_media",
+      "rootUri": "file:///media/AUX/DevTools/Flutter/flutter/.pub-cache/hosted/pub.dartlang.org/webview_media-0.1.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.2"
+    },
+    {
+      "name": "youtube_player_flutter",
+      "rootUri": "file:///media/AUX/DevTools/Flutter/flutter/.pub-cache/hosted/pub.dartlang.org/youtube_player_flutter-6.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.5"
+    },
+    {
       "name": "picta_tv",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "2.7"
     }
   ],
-  "generated": "2021-10-03T16:12:40.052110Z",
+  "generated": "2021-10-03T18:28:44.685465Z",
   "generator": "pub",
   "generatorVersion": "2.10.2"
 }
